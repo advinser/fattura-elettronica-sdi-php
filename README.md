@@ -6,15 +6,15 @@ fatturapa-elettronica-sdi-php permette di comunicare con il Sistema di Interscam
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Prerequisiti
 
-Symfony 4.0 necessità di PHP 7.1.3 o superiore per funzionare. Sarà possibile eseguire sul server il seguente comando per effettuare le verifiche in automatico:
+[Symfony 4.0](https://symfony.com/) necessità di PHP 7.1.3 o superiore per funzionare. Sarà possibile eseguire sul server il seguente comando per effettuare le verifiche in automatico:
 
 ```
 composer require symfony/requirements-checker
 ```
 
-### Installing
+### Installazione
 
 Sarà sufficiente clonare il progetto tramite il comando
 
@@ -30,43 +30,26 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Caricamento dei certificati
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+## Esecuzione dei test
 
-Explain what these tests test and why
+Explain how to run the automated tests for this system
 
-```
-Give an example
-```
+## Passaggio in produzione
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Explain how to run the automated tests for this system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Symfony 4.0](https://symfony.com/) - The standard foundation on which the best PHP applications are built
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) - The Lightning-Smart PHP IDE
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
