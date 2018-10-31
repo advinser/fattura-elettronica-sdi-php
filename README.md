@@ -1,6 +1,6 @@
 # fattura-elettronica-sdi-php
 
-One Paragraph of project description goes here
+fatturapa-elettronica-sdi-php permette di comunicare con il Sistema di Interscambio (SDI) per la trasmissione e la ricezione delle fatture in formato elettronico sia per Pubblica Amministrazione che per Aziende (B2B)
 
 ## Getting Started
 
