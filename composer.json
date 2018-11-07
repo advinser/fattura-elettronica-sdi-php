@@ -1,0 +1,38 @@
+{
+  "name": "advinser/fattura-elettronica-sdi-php",
+  "description": "Fattura Elettronica Sdi",
+  "version": "v1.0-dev",
+  "keywords": [
+    "fatturaPa",
+    "fattura elettronica",
+    "fattura elettronica XML",
+    "sistema di interscambio"
+  ],
+  "type": "library",
+  "require": {
+    "doctrine/doctrine-bundle": "^1.3",
+    "swiftmailer/swiftmailer": "^4.3 || ^5.0 || ^6.0",
+    "symfony/console": "^2.8 || ^3.0 || ^4.0",
+    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+    "php": ">=7.2",
+    "ext-json": "*",
+    "advinser/php-fattura-elettronica-xml": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.5@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Advinser\\FatturaElettronicaSdiBundle\\": "src/"
+    },
+    "exclude-from-classmap": [
+      "/Tests/"
+    ]
+  },
+  "license": "GPL-3.0-or-later",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "v1.0-dev"
+    }
+  }
+}
