@@ -29,10 +29,5 @@
       "/Tests/"
     ]
   },
-  "license": "GPL-3.0-or-later",
-  "extra": {
-    "branch-alias": {
-      "dev-master": "v1.0-dev"
-    }
-  }
+  "license": "GPL-3.0-or-later"
 }
